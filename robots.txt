@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://mokdong-nightlife-note.best-seocho-karaoke.xyz/sitemap.xml
+Sitemap: https://mokdong-nightlife-note.best-seocho-karaoke.xyz/sitemap-pages.xml
